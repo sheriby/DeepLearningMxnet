@@ -1,2 +1,2 @@
-# DeepLearningMxnet
-Learn deep learing from Dive Into Deep Learning
+# Learn Deep Learning By Using MXNet
+Read `Dive Into Deep Learning` from scratch.
